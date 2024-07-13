@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 console.log("DEAR STUDENT\nWELCOME TO RAHI ACADEMY\n");
 const idNumber = Math.floor(10000 + Math.random() * 90000);
